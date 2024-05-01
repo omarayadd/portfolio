@@ -290,6 +290,26 @@ body{
   background-size: cover;
 }
 
+.box6{
+  background-image: url("./images/p5.png");
+  background-size: cover;
+}
+
+.box7{
+  background-image: url("./images/p7.png");
+  background-size: cover;
+}
+
+.box8{
+  background-image: url("./images/p8.png");
+  background-size: cover;
+}
+
+.box9{
+  background-image: url("./images/p9.jpg");
+  background-size: cover;
+}
+
 .box-body {
   height: 0; /* Start with height 0 */
   background-color: rgb(60, 57, 57);
